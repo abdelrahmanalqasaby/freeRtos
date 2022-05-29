@@ -93,7 +93,7 @@ int counter3=0;
 const signed char message1[]="jello";
 const signed char message2[]="kellp";
 const signed char message3[]="licpp";
-signed char uart_buffer[]="";
+signed char uart_buffer[5]="";
 
 
 /*
